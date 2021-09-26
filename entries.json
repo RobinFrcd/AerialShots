@@ -1,0 +1,76 @@
+{
+    "assets": [
+        {
+            "id": "video_aurland_202109",
+            "pointsOfInterest": {
+                "0": "Flight over Aurland Fjord, Norway"
+            },
+            "title": "Aurland",
+            "accessibilityLabel": "Norway",
+            "scene": "nature",
+            "timeOfDay": "day",
+            "url-4K-SDR": "https://github.com/RobinFrcd/AerialShots/blob/master/shots/Aurland-4k.mov",
+            "url-1080-H264": "https://github.com/RobinFrcd/AerialShots/blob/master/shots/Aurland-1080p.m4v"
+        },
+        {
+            "id": "video_henningsvaer_202109",
+            "pointsOfInterest": {
+                "0": "Flight over Henningsvaer Stadium, Norway"
+            },
+            "title": "Henningsvaer",
+            "accessibilityLabel": "Norway",
+            "scene": "beach",
+            "timeOfDay": "sunset",
+            "url-4K-SDR": "https://github.com/RobinFrcd/AerialShots/blob/master/shots/Hennigsvaer-4k.mov",
+            "url-1080-H264": "https://github.com/RobinFrcd/AerialShots/blob/master/shots/Hennigsvaer-1080p.m4v"
+        },
+        {
+            "id": "video_henningsvaer_2_202109",
+            "pointsOfInterest": {
+                "0": "Flight over Henningsvaer Stadium, Norway"
+            },
+            "title": "Henningsvaer",
+            "accessibilityLabel": "Norway",
+            "scene": "beach",
+            "timeOfDay": "sunset",
+            "url-4K-SDR": "https://github.com/RobinFrcd/AerialShots/blob/master/shots/Hennigsvaer-2-4k.mov",
+            "url-1080-H264": "https://github.com/RobinFrcd/AerialShots/blob/master/shots/Hennigsvaer-2-1080p.m4v"
+        },
+        {
+            "id": "video_nusfjord_202109",
+            "pointsOfInterest": {
+                "0": "Flight over Nusfjord, Lofoten, Norway"
+            },
+            "title": "Nusfjord",
+            "accessibilityLabel": "Norway",
+            "scene": "nature",
+            "timeOfDay": "day",
+            "url-4K-SDR": "https://github.com/RobinFrcd/AerialShots/blob/master/shots/Nusfjord-4k.mov",
+            "url-1080-H264": "https://github.com/RobinFrcd/AerialShots/blob/master/shots/Nusfjord-1080p.m4v"
+        },
+        {
+            "id": "video_reine_202109",
+            "pointsOfInterest": {
+                "0": "Flight over Reinevågen, Lofoten, Norway"
+            },
+            "title": "Reine",
+            "accessibilityLabel": "Norway",
+            "scene": "sea",
+            "url-4K-SDR": "https://github.com/RobinFrcd/AerialShots/blob/master/shots/Reine-4k.mov",
+            "url-1080-H264": "https://github.com/RobinFrcd/AerialShots/blob/master/shots/Reine-1080p.m4v"
+        },
+        {
+            "id": "video_vettisfossen_202109",
+            "pointsOfInterest": {
+                "0": "Flight Vettisfossen waterfall, Norway"
+            },
+            "title": "Vettisfossen",
+            "accessibilityLabel": "Norway",
+            "scene": "waterfall",
+            "url-4K-SDR": "https://github.com/RobinFrcd/AerialShots/blob/master/shots/Vettisfossen-4k.mov",
+            "url-1080-H264": "https://github.com/RobinFrcd/AerialShots/blob/master/shots/Vettisfossen-1080p.m4v"
+        }
+    ],
+    "version": 1,
+    "initialAssetCount": 1
+}
