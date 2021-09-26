@@ -1,0 +1,12 @@
+{
+    "name": "Robin Fourcade's drone shots in Norway",
+    "description": "Norway drone shots",
+    "scenes": [
+      "landscape",
+      "sea",
+      "countryside"
+    ],
+    "manifestUrl": "https://raw.githubusercontent.com/RobinFrcd/AerialShots/master/entries.json",
+    "local": false,
+    "cacheable": true
+}
