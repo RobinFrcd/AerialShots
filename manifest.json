@@ -6,7 +6,7 @@
       "sea",
       "countryside"
     ],
-    "manifestUrl": "https://github.com/RobinFrcd/AerialShots/blob/master/entries.json",
+    "manifestUrl": "https://raw.githubusercontent.com/RobinFrcd/AerialShots/master/entries.json",
     "local": false,
     "cacheable": true
 }
