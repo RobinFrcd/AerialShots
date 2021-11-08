@@ -9,8 +9,9 @@
             "accessibilityLabel": "Norway",
             "scene": "nature",
             "timeOfDay": "day",
-            "url-4K-SDR": "https://github.com/RobinFrcd/AerialShots/releases/download/norway-202109/Aurland-4k.mov",
-            "url-1080-H264": "https://github.com/RobinFrcd/AerialShots/releases/download/norway-202109/Aurland-1080p.m4v"
+            "url-1080-H264": "https://github.com/RobinFrcd/AerialShots/releases/download/norway-2021-v1/robinfrcd_aurland_1080p_H264.m4v",
+            "url-1080-HDR": "https://github.com/RobinFrcd/AerialShots/releases/download/norway-2021-v1/robinfrcd_aurland_1080p_hevc.m4v",
+            "url-4K-SDR": "https://github.com/RobinFrcd/AerialShots/releases/download/norway-2021-v1/robinfrcd_aurland_4k.m4v"
         },
         {
             "id": "video_henningsvaer_202109",
@@ -21,20 +22,9 @@
             "accessibilityLabel": "Norway",
             "scene": "beach",
             "timeOfDay": "sunset",
-            "url-4K-SDR": "https://github.com/RobinFrcd/AerialShots/releases/download/norway-202109/Hennigsvaer-4k.mov",
-            "url-1080-H264": "https://github.com/RobinFrcd/AerialShots/releases/download/norway-202109/Hennigsvaer-1080p.m4v"
-        },
-        {
-            "id": "video_henningsvaer_2_202109",
-            "pointsOfInterest": {
-                "0": "Flight over Henningsvaer Stadium, Norway"
-            },
-            "title": "Henningsvaer",
-            "accessibilityLabel": "Norway",
-            "scene": "beach",
-            "timeOfDay": "sunset",
-            "url-4K-SDR": "https://github.com/RobinFrcd/AerialShots/releases/download/norway-202109/Hennigsvaer-2-4k.mov",
-            "url-1080-H264": "https://github.com/RobinFrcd/AerialShots/releases/download/norway-202109/Hennigsvaer-2-1080p.m4v"
+            "url-1080-H264": "https://github.com/RobinFrcd/AerialShots/releases/download/norway-2021-v1/robinfrcd_hennigsvaer_1080p_H264.m4v",
+            "url-1080-HDR": "https://github.com/RobinFrcd/AerialShots/releases/download/norway-2021-v1/robinfrcd_hennigsvaer_1080p_hevc.m4v",
+            "url-4K-SDR": "https://github.com/RobinFrcd/AerialShots/releases/download/norway-2021-v1/robinfrcd_hennigsvaer_4k.m4v"
         },
         {
             "id": "video_nusfjord_202109",
@@ -45,8 +35,9 @@
             "accessibilityLabel": "Norway",
             "scene": "nature",
             "timeOfDay": "day",
-            "url-4K-SDR": "https://github.com/RobinFrcd/AerialShots/releases/download/norway-202109/Nusfjord-4k.mov",
-            "url-1080-H264": "https://github.com/RobinFrcd/AerialShots/releases/download/norway-202109/Nusfjord-1080p.m4v"
+            "url-1080-H264": "https://github.com/RobinFrcd/AerialShots/releases/download/norway-2021-v1/robinfrcd_nusfjord_1080p_H264.m4v",
+            "url-1080-HDR": "https://github.com/RobinFrcd/AerialShots/releases/download/norway-2021-v1/robinfrcd_nusfjord_1080p_hevc.m4v",
+            "url-4K-SDR": "https://github.com/RobinFrcd/AerialShots/releases/download/norway-2021-v1/robinfrcd_nusfjord_4k.m4v"
         },
         {
             "id": "video_reine_202109",
@@ -56,8 +47,10 @@
             "title": "Reine",
             "accessibilityLabel": "Norway",
             "scene": "sea",
-            "url-4K-SDR": "https://github.com/RobinFrcd/AerialShots/releases/download/norway-202109/Reine-4k.mov",
-            "url-1080-H264": "https://github.com/RobinFrcd/AerialShots/releases/download/norway-202109/Reine-1080p.m4v"
+            "timeOfDay": "day",
+            "url-1080-H264": "https://github.com/RobinFrcd/AerialShots/releases/download/norway-2021-v1/robinfrcd_reine_1080p_H264.m4v",
+            "url-1080-HDR": "https://github.com/RobinFrcd/AerialShots/releases/download/norway-2021-v1/robinfrcd_reine_1080p_hevc.m4v",
+            "url-4K-SDR": "https://github.com/RobinFrcd/AerialShots/releases/download/norway-2021-v1/robinfrcd_reine_4k.m4v"
         },
         {
             "id": "video_vettisfossen_202109",
@@ -67,8 +60,10 @@
             "title": "Vettisfossen",
             "accessibilityLabel": "Norway",
             "scene": "waterfall",
-            "url-4K-SDR": "https://github.com/RobinFrcd/AerialShots/releases/download/norway-202109/Vettisfossen-4k.mov",
-            "url-1080-H264": "https://github.com/RobinFrcd/AerialShots/releases/download/norway-202109/Vettisfossen-1080p.m4v"
+            "timeOfDay": "day",
+            "url-1080-H264": "https://github.com/RobinFrcd/AerialShots/releases/download/norway-2021-v1/robinfrcd_vettisfossen_1080p_H264.m4v",
+            "url-1080-HDR": "https://github.com/RobinFrcd/AerialShots/releases/download/norway-2021-v1/robinfrcd_vettisfossen_1080p_hevc.m4v",
+            "url-4K-SDR": "https://github.com/RobinFrcd/AerialShots/releases/download/norway-2021-v1/robinfrcd_vettisfossen_4k.m4v"
         }
     ],
     "version": 1,
