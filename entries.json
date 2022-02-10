@@ -1,6 +1,45 @@
 {
     "assets": [
         {
+            "id": "french_alps_mont_blanc_202202",
+            "pointsOfInterest": {
+                "0": "Flying towards Mont Blanc, Megève, France"
+            },
+            "title": "Alps",
+            "accessibilityLabel": "France",
+            "scene": "nature",
+            "timeOfDay": "day",
+            "url-1080-H264": "https://github.com/RobinFrcd/AerialShots/releases/download/french-alps-2022-v1/robinfrcd_french_alps_mont_blanc_2_1080p_h264.m4v",
+            "url-1080-HDR": "https://github.com/RobinFrcd/AerialShots/releases/download/french-alps-2022-v1/robinfrcd_french_alps_mont_blanc_2_1080p_hevc.m4v",
+            "url-4K-SDR": "https://github.com/RobinFrcd/AerialShots/releases/download/french-alps-2022-v1/robinfrcd_french_alps_mont_blanc_2_4k_hevc.m4v"
+        },
+        {
+            "id": "french_alps_sea_of_clouds_202202",
+            "pointsOfInterest": {
+                "0": "Flight over sea of clouds, Megève, France"
+            },
+            "title": "Sea of Clouds 1",
+            "accessibilityLabel": "France",
+            "scene": "nature",
+            "timeOfDay": "day",
+            "url-1080-H264": "https://github.com/RobinFrcd/AerialShots/releases/download/french-alps-2022-v1/robinfrcd_french_alps_sea_of_clouds_1080p_h264.m4v",
+            "url-1080-HDR": "https://github.com/RobinFrcd/AerialShots/releases/download/french-alps-2022-v1/robinfrcd_french_alps_sea_of_clouds_1080p_hevc.m4v",
+            "url-4K-SDR": "https://github.com/RobinFrcd/AerialShots/releases/download/french-alps-2022-v1/robinfrcd_french_alps_sea_of_clouds_4k_hevc.m4v"
+        },
+        {
+            "id": "french_alps_sea_of_clouds_2_202202",
+            "pointsOfInterest": {
+                "0": "Flight over sea of clouds, Megève, France"
+            },
+            "title": "Sea of Clouds 2",
+            "accessibilityLabel": "France",
+            "scene": "nature",
+            "timeOfDay": "day",
+            "url-1080-H264": "https://github.com/RobinFrcd/AerialShots/releases/download/french-alps-2022-v1/robinfrcd_french_alps_sea_of_clouds_2_1080p_h264.m4v",
+            "url-1080-HDR": "https://github.com/RobinFrcd/AerialShots/releases/download/french-alps-2022-v1/robinfrcd_french_alps_sea_of_clouds_2_1080p_hevc.m4v",
+            "url-4K-SDR": "https://github.com/RobinFrcd/AerialShots/releases/download/french-alps-2022-v1/robinfrcd_french_alps_sea_of_clouds_2_4k_hevc.m4v"
+        },
+        {
             "id": "video_aurland_202109",
             "pointsOfInterest": {
                 "0": "Flight over Aurland Fjord, Norway"
